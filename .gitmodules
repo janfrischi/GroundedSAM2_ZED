@@ -1,0 +1,6 @@
+[submodule "zed-sdk"]
+	path = zed-sdk
+	url = git@github.com:janfrischi/zed-sdk.git
+[submodule "Grounded-SAM-2"]
+	path = Grounded-SAM-2
+	url = git@github.com:janfrischi/Grounded-SAM-2.git
